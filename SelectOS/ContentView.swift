@@ -45,6 +45,7 @@ struct ContentView: View {
                             systemRow(imageName: "Ubuntu", title: "Ubuntu Touch (UBports)", description: "")
                             systemRow(imageName: "KaiOS", title: "KaiOS (TCL)", description: "")
                             systemRow(imageName: "Firefox", title: "Firefox OS (Mozilla)", description: "")
+                            systemRow(imageName: "Windows_Mobile", title: "Windows Mobile (Microsoft)", description: "")
                         }
                     }
                     .navigationBarTitleDisplayMode(.inline)
