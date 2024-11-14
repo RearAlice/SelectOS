@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "apps.61849.13723399820527564.6739a27d-6f12-4766-bf40-4157b3a81254.6fc73e86-7f71-4ed5-81cb-57cf0b19634a.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "apps.61849.13723399820527564.6739a27d-6f12-4766-bf40-4157b3a81254.6fc73e86-7f71-4ed5-81cb-57cf0b19634a 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "apps.61849.13723399820527564.6739a27d-6f12-4766-bf40-4157b3a81254.6fc73e86-7f71-4ed5-81cb-57cf0b19634a 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
